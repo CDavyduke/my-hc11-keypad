@@ -1,0 +1,1 @@
+This project reads input from a keypad and prints it out on the LCD.
